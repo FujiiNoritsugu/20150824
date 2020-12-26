@@ -25,7 +25,7 @@
 		<junit.version>[4.13.1,)</junit.version>
 
 		<!-- Camel -->
-		<camel.version>2.15.2</camel.version>
+		<camel.version>[2.24.0,)</camel.version>
 	</properties>
 	
 	<dependencies>
